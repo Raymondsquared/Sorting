@@ -46,6 +46,7 @@
     <Compile Include="Abstractions\ISort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Strategies\InsertionSort\InsertionSortStrategy.cs" />
     <Compile Include="Strategies\BubbleSort\BubleSortStrategy.cs" />
   </ItemGroup>
   <ItemGroup>
